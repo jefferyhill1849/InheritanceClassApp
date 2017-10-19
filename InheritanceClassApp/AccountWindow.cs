@@ -10,11 +10,15 @@ using System.Windows.Forms;
 
 namespace InheritanceClassApp
 {
-    public partial class Form1 : Form
+    public partial class AccountWindow : Form
     {
-        public Form1()
+        public Account acctType;
+
+        public AccountWindow()
         {
             InitializeComponent();
         }
+
+        
     }
 }

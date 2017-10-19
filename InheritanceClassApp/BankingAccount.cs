@@ -24,7 +24,7 @@ namespace InheritanceClassApp
         {
             acctOpen = DateTime.Now;
         }
-        // I am chaining to refer back to the previous constructor.
+        
         public Account(string name, int number, decimal balance) 
         {
             CustomerName = name;
