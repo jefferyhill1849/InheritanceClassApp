@@ -1,0 +1,5 @@
+D:\jhill\Documents\Visual Studio 2015\Projects\InheritanceClassApp\InheritanceClassApp\bin\Debug\InheritanceClassApp.exe.config
+D:\jhill\Documents\Visual Studio 2015\Projects\InheritanceClassApp\InheritanceClassApp\obj\Debug\InheritanceClassApp.csprojResolveAssemblyReference.cache
+D:\jhill\Documents\Visual Studio 2015\Projects\InheritanceClassApp\InheritanceClassApp\obj\Debug\InheritanceClassApp.AccountWindow.resources
+D:\jhill\Documents\Visual Studio 2015\Projects\InheritanceClassApp\InheritanceClassApp\obj\Debug\InheritanceClassApp.Properties.Resources.resources
+D:\jhill\Documents\Visual Studio 2015\Projects\InheritanceClassApp\InheritanceClassApp\obj\Debug\InheritanceClassApp.csproj.GenerateResource.Cache
